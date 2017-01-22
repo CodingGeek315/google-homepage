@@ -1,5 +1,7 @@
-<<<<<<< HEAD
-This is the google homepage README.md file!
-=======
-# google-homepage
->>>>>>> 95e1626a6d941ce7c93ea0c3c340209c2ce54dde
+TIL:
+How to set up a basic webpage with:
+- A Logo
+- Clickable buttons
+- A search bar
+- Add color to background
+- Html and CSS isn't as easy as it looks...
