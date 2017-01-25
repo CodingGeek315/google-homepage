@@ -4,7 +4,7 @@ How to set up a basic webpage with:
 - Clickable buttons
 - A search bar
 - Add color to background
-- Html and CSS isn't as easy as it looks...
+- Html and CSS isn't as easy as it looks
 -A top Nav bar
 -A bottom Nav bar
 -Getting something to scale correctly can be a PITA
